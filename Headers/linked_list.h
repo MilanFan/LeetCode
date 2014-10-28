@@ -7,7 +7,7 @@
 
 #include <iostream>
 
-#ifndef LINKED_LIST_H_
+#ifndef LINKED_LIST_H+_
 #define LINKED_LIST_H_
 
 /* Definition for singly-linked list */
